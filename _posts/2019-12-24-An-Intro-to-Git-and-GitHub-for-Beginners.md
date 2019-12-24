@@ -2,7 +2,7 @@
 layout: post
 title:  "An Intro to Git and GitHub for Beginners"
 date:   2019-12-24
-author: 文香兰
+author: Ben Centra
 categories: Dummy
 ---
 
@@ -136,7 +136,7 @@ mnelson：myproject mnelson $ git状态
 
 查看GitHub与host的原始gitbranch.md
 
-旁带星号的分支名称表示您在给定时间指向哪个分支。
+旁边带星号的分支名称表示您在给定时间指向哪个分支。
 
 现在，如果您切换回主分支并进行更多提交，您的新分支将不会看到任何这些更改，直到您将这些更改合并到新分支。
 
