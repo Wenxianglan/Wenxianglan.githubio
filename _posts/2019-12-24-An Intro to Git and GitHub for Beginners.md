@@ -2,7 +2,7 @@
 layout: post
 title:  "An Intro to Git and GitHub for Beginners"
 date:   2019-12-24
-author: Ben Centra
+author: 文香兰
 categories: Dummy
 ---
 
